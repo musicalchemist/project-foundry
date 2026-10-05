@@ -32,7 +32,7 @@ Use these books as intellectual influences. Apply their ideas to the current con
 - *Design Patterns: Elements of Reusable Object-Oriented Software* — Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides.
 - *Designing Data-Intensive Applications* — Martin Kleppmann; the second edition is coauthored with Chris Riccomini.
 
-Selected skills are adapted from Matt Pocock’s publicly available skills under the included MIT license. 
+Selected skills are adapted from Matt Pocock’s publicly available skills under the included [MIT license](skills/LICENSE).
 
 ## Start with the actual task
 
@@ -151,6 +151,6 @@ Use this single-line prompt, replacing the subject and path as needed:
 Please read project-foundry/about.md for [XYZ]. Identify whether we are brainstorming, researching, refining an idea, building from scratch, supporting a current project, debugging, or refactoring; ask a few unresolved questions, assess feasibility, propose a scoped roadmap, and select the included skills and dependencies to copy or reference. Use human-guided implementation of one selected ticket at a time with review checkpoints.
 ```
 
-Share the complete folder to preserve the same information and skill text. Sharing only `about.md` preserves the purpose and working approach, but not the skill bodies. For a new project, select the relevant whole skill folders and dependency closure rather than loading the entire collection into every session. Preserve [ATTRIBUTION.md](ATTRIBUTION.md), [LICENSE](LICENSE), and any skill credits with redistributed material.
+Share the complete folder to preserve the same information and skill text. Sharing only `about.md` preserves the purpose and working approach, but not the skill bodies. For a new project, select the relevant whole skill folders and dependency closure rather than loading the entire collection into every session. Preserve [ATTRIBUTION.md](ATTRIBUTION.md), [Matt Pocock's MIT license](skills/LICENSE), and any skill credits with redistributed material.
 
 To recreate this resource from supplied files, retain this structure: `about.md`, `best-practices.md`, a short `README.md`, attribution/license text, and the 16 skill folders named above with their companions. Reuse the supplied bodies directly. If a skill is missing, identify it and request the needed text rather than inventing an upstream copy or downloading a repository. Keep project-specific facts and generated task records in their destination project. Do not add policy documents, installers, manifests, machine metadata, or personal reconstruction history to this common folder.

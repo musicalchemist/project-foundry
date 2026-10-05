@@ -6,4 +6,4 @@ Start with [about.md](about.md) for the purpose, intellectual influences, desire
 
 Read [best-practices.md](best-practices.md) before loading external sources or using tools. Keep it with selected skills, and reference it from the destination project's existing instructions.
 
-This edition contains text instructions and examples. [ATTRIBUTION.md](ATTRIBUTION.md) identifies the source and adaptations; [LICENSE](LICENSE) preserves the license for the Matt Pocock material.
+This edition contains text instructions and examples. [ATTRIBUTION.md](ATTRIBUTION.md) identifies the source and adaptations; [Matt Pocock's MIT license](skills/LICENSE) accompanies the adapted skills and their supporting text. The original project guidance is separate.
