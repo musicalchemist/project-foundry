@@ -1,0 +1,12 @@
+.DS_Store
+._*
+.env
+.env.*
+__pycache__/
+*.pyc
+*.json
+*.yaml
+*.yml
+*.zip
+.idea/
+.vscode/
