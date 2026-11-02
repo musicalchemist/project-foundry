@@ -4,6 +4,8 @@ The destination project owns its instructions, real commands, data rules, archit
 
 ## Start with the core
 
+Use [the kickoff prompt](../templates/new-project-kickoff.md) to select and adopt a kit for a new project. Use [the guidance sync prompt](../templates/sync-guidance.md) for an existing repo; it preserves local decisions and records a deliberate refresh.
+
 1. Inspect the destination's existing instructions and changes. Merge useful parts of [AGENTS](../templates/AGENTS.md), [CLAUDE](../templates/CLAUDE.md), and [SECURITY](../templates/SECURITY.md) templates; do not overwrite existing project decisions or copy this library's root maintenance instructions.
 2. Select the relevant [workflow](agent-workflow.md), [design](design.md), [verification](verification.md), and [security](../SECURITY.md) guidance. Copy it under a project-owned guidance folder, keeping linked companions or adjusting links deliberately. Add pointers only to files actually adopted.
 3. Add original `foundry-plan`, `foundry-build`, `foundry-review`, or `foundry-handoff` workflows when useful. They are self-contained folders under `workflows/`; select only the current jobs. The existing Matt collection in `skills/` offers other procedures. Choose one primary workflow per stage.

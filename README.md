@@ -7,6 +7,8 @@ Start with [adoption](guides/adoption.md). For a small project, use the instruct
 | Need | Read |
 | --- | --- |
 | Choose a core or optional pack | [Adoption guide](guides/adoption.md) |
+| Start a new project | [Kickoff prompt](templates/new-project-kickoff.md) |
+| Refresh an existing repo or contribute a lesson | [Guidance sync prompt](templates/sync-guidance.md) |
 | Codex/Claude setup facts | [Host setup](guides/host-setup.md) |
 | Evaluate a new resource | [Resource intake](guides/resource-intake.md), [resource catalog](references/resources.md) |
 | Select security checks | [Security tools](guides/security-tools.md) |
